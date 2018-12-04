@@ -1,0 +1,19 @@
+Open Ubuntu App
+
+
+cd /mnt/c/users/desktop...../ LOCATION_OF_THE_PROGRAM_FOLDER
+
+make clean
+
+make
+
+chmod +x KVStoreGrader.sh
+
+./KVStoreGrader.sh
+
+
+python submit.py
+
+
+enter your email address on prompt
+Enter passpord
